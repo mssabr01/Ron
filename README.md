@@ -1,6 +1,6 @@
 # Ron
 Ron robot for discussing serious things
 
-Gonna use neural networks and node.js because we are hip
+Gonna use markov models and node.js because hip
 
 http://www.deeplearningbook.org/
